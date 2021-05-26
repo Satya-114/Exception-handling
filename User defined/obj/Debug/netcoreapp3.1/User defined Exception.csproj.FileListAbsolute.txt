@@ -1,0 +1,12 @@
+C:\Users\Satya Maddila\source\repos\User defined Exception\obj\Debug\netcoreapp3.1\User defined Exception.AssemblyInfoInputs.cache
+C:\Users\Satya Maddila\source\repos\User defined Exception\obj\Debug\netcoreapp3.1\User defined Exception.AssemblyInfo.cs
+C:\Users\Satya Maddila\source\repos\User defined Exception\obj\Debug\netcoreapp3.1\User defined Exception.csproj.CoreCompileInputs.cache
+C:\Users\Satya Maddila\source\repos\User defined Exception\bin\Debug\netcoreapp3.1\User defined Exception.exe
+C:\Users\Satya Maddila\source\repos\User defined Exception\bin\Debug\netcoreapp3.1\User defined Exception.deps.json
+C:\Users\Satya Maddila\source\repos\User defined Exception\bin\Debug\netcoreapp3.1\User defined Exception.runtimeconfig.json
+C:\Users\Satya Maddila\source\repos\User defined Exception\bin\Debug\netcoreapp3.1\User defined Exception.runtimeconfig.dev.json
+C:\Users\Satya Maddila\source\repos\User defined Exception\bin\Debug\netcoreapp3.1\User defined Exception.dll
+C:\Users\Satya Maddila\source\repos\User defined Exception\bin\Debug\netcoreapp3.1\User defined Exception.pdb
+C:\Users\Satya Maddila\source\repos\User defined Exception\obj\Debug\netcoreapp3.1\User defined Exception.dll
+C:\Users\Satya Maddila\source\repos\User defined Exception\obj\Debug\netcoreapp3.1\User defined Exception.pdb
+C:\Users\Satya Maddila\source\repos\User defined Exception\obj\Debug\netcoreapp3.1\User defined Exception.genruntimeconfig.cache
